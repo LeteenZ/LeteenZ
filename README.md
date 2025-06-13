@@ -1,10 +1,5 @@
 <br clear="both">
-
 <h2 align="left">Hi there👋!</h2>
-
-###
-
-<br clear="both">
 
 <h2 align="left">
     About Me 🖋:<br>
