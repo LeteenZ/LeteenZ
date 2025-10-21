@@ -4,8 +4,8 @@
 <h2 align="left">
     About Me 🖋:<br>
     <span style="font-size: 16px;">
-        - i'm Tien<br>
-        - A Frontend & Backend Developer<br>
+        - I'm Tien<br>
+        - A Frontend & Backend Web Developer<br>
         - From VietNam
     </span>
 </h2>
