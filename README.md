@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Lê+Văn+Tiến;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+L%C3%AA+V%C4%83n+Ti%E1%BA%BFn;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -45,18 +45,12 @@ const tien = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <!-- Using alternative endpoints for better reliability -->
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeteenZ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=LeteenZ&theme=radical&hide_border=true&background=0D1117&ring=A177F7&fire=A177F7&currStreakLabel=A177F7" alt="GitHub Streak" />
-  
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeteenZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeteenZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeteenZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF" alt="Contribution Graph" />
-  
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeteenZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
